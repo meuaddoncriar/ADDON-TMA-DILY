@@ -1,15 +1,13 @@
-
-
 <channels>
 <channel>
-<name>[COLOR blue]|||SEJAM BEM VINDOS [/COLOR] [COLOR blue]|||[/COLOR]</name>
-<thumbnail></thumbnail>
+<name>SEJAM BEM VINDOS - ADDON TESTE</name>
+<thumbnail>https://ia601402.us.archive.org/31/items/entrar_20200830_1840/BEM%20VINDO.png</thumbnail>
 <externallink>https://</externallink>
-<fanart></fanart>
+<fanart>https://ia801402.us.archive.org/31/items/entrar_20200830_1840/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ADDON TMA&DILY  - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - ADDON TESTE ANIME - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels
 
@@ -17,15 +15,15 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|||ENTRE AQUI [/COLOR] [COLOR blue]|||[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/meuaddoncriar/ADDON-TMA-DILY/master/CATEGORIA</externallink>
-<fanart></fanart>
+<name>ENTRE AQUI</name>
+<thumbnail>https://ia801402.us.archive.org/31/items/entrar_20200830_1840/ENTRAR.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/meuaddoncriar/TESTE/master/ANIME</externallink>
+<fanart>https://ia801402.us.archive.org/31/items/entrar_20200830_1840/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ADDON TMA&DILY  - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
-</channels
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
