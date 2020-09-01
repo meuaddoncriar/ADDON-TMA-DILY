@@ -1,20 +1,3 @@
-
-<channels>
-<channel>
-<name>UMBRELLA ACADEMY</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/meuaddoncriar/ADDON-TMA-DILY/master/UMBRELLA%20ACADEMY</externallink>
-<fanart>https://ia801402.us.archive.org/31/items/entrar_20200830_1840/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - SERIES - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
 <channels>
 <channel>
 <name>GOTHAM</name>
@@ -38,6 +21,21 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vn4K3hgtoDV2rIK6FfYK8ejn1tW.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/meuaddoncriar/ADDON-TMA-DILY/master/LUCIFER</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - SERIES - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>UMBRELLA ACADEMY</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/meuaddoncriar/ADDON-TMA-DILY/master/UMBRELLA%20ACADEMY</externallink>
+<fanart>https://ia801402.us.archive.org/31/items/entrar_20200830_1840/fanart.jpg</fanart>
 <info>
 
 
