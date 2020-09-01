@@ -3,7 +3,7 @@
 <name>ANIME</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
-<fanart></fanart>
+<fanart>https://segredosdomundo.r7.com/wp-content/uploads/2019/07/confira-agora-os-25-melhores-animes-que-ja-foram-criados-1.jpg</fanart>
 <info>
 
 
@@ -12,12 +12,28 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>FILMES</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/meuaddoncriar/ADDON-TMA-DILY/master/FILMES</externallink>
+<fanart>https://4.bp.blogspot.com/-3ru5eMZ_UBQ/VznFpStPwsI/AAAAAAAAGUM/CkKNxvTcRU8Zoq8mWmrLne-xmjYzp6ZCwCLcB/s1600/futuros-2016-05-16.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
 <name>SERIES</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/meuaddoncriar/ADDON-TMA-DILY/master/SERIES</externallink>
-<fanart></fanart>
+<fanart>https://www.showmetech.com.br/wp-content/uploads/2018/09/amazon-3-990x556.jpg</fanart>
 <info>
 
 
@@ -25,4 +41,4 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
