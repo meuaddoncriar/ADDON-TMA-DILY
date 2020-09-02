@@ -32,6 +32,21 @@
 
 <channels>
 <channel>
+<name>ONCE UPON A TIME / ERA UMA VEZ</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o1TlQ7PEF7gDuZAwCp3vXnmkw.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://image.tmdb.org/t/p/original/xYmJLYOeH5E9ZZrRAAaFRGzWU4k.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - SERIES - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>THE UMBRELLA ACADEMY</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYHdIs5O8tiU5p6MvUPd2jElOH6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/meuaddoncriar/ADDON-TMA-DILY/master/UMBRELLA%20ACADEMY</externallink>
