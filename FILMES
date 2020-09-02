@@ -48,30 +48,30 @@
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>O Bom Dinossauro (2015)</title>
+<link>https://playplus.azureedge.net/RCFServer2/ondemand/OBOMDINO.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DIObOvdH1jCCIe06DLjQFIsZOY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DIObOvdH1jCCIe06DLjQFIsZOY.jpg</fanart>
 <info></info>
-<genre></genre>
+<genre>ANIMAÇÃO</genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Os Sem-Floresta (2006)</title>
+<link>https://playplus.azureedge.net/RCFServer2/ondemand/OSMFLRSTS.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNPhs8Gkm1SJ4vuZDnytZnj1EsY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNPhs8Gkm1SJ4vuZDnytZnj1EsY.jpg</fanart>
 <info></info>
-<genre></genre>
+<genre>ANIMAÇÃO</genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Scooby-Doo! De Volta à Ilha dos Zumbis (2019)</title>
+<link>https://playplus.azureedge.net/RCServer09/ondemand/SCBDFLM01.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DWSsLs8jltBxH2LSazuSR9FjpQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DWSsLs8jltBxH2LSazuSR9FjpQ.jpg</fanart>
 <info></info>
-<genre></genre>
+<genre>ANIMAÇÃO</genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -85,7 +85,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>Hotel Transilvânia (2012)</title>
-<link>https://playplus.azureedge.net/RCFServer3/ondemand/HTLTRNSVN1.mp4?attachment=true</link>
+<link>https://playplus.azureedge.net/RCFServer2/ondemand/HOTLTRNSVLNA1.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsLEOcGJIys3mw58XXtTBbnWFRO.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsLEOcGJIys3mw58XXtTBbnWFRO.jpg</fanart>
 <info></info>
@@ -111,10 +111,91 @@
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title></title>
-<link>URL AQUI</link>
+<title>Scooby-Doo e o Abominável Homem das Neves (2007)</title>
+<link>https://playplus.azureedge.net/RCServer09/ondemand/SCBDFLM11.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqAfjQnv1vn75PZfPLtxO9yPm7Y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqAfjQnv1vn75PZfPLtxO9yPm7Y.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>Scooby-Doo e o Fantasma da Bruxa (1999)</title>
+<link>https://playplus.azureedge.net/RCServer09/ondemand/SCBDFLM02.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dXUodHXR1m0x6ZpyVpMrgNVfBD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dXUodHXR1m0x6ZpyVpMrgNVfBD.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>Scooby-Doo e os Invasores Alienígenas</title>
+<link>https://playplus.azureedge.net/RCServer09/ondemand/SCBDFLM03.mp4?attachment=true</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<info></info>
+<genre>ANIMAÇÃO</genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>Natal com os Storybots (2017)</title>
+<link>https://playplus.azureedge.net/RCFServer4/ondemand/NATLCMSTRBTS.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/alPfz0S3QrN6cd7Kxf03EfSWKuf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/alPfz0S3QrN6cd7Kxf03EfSWKuf.jpg</fanart>
+<info></info>
+<genre>ANIMAAÇÃO</genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>Tina & Téo - A Pedra Encantada (2019)</title>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/TNAETIOAPDRENCTDA.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNygVjotBeHHMSfVfhuTWZvkTr9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNygVjotBeHHMSfVfhuTWZvkTr9.jpg</fanart>
+<info></info>
+<genre>ANIMAÇÃO</genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>Shrek (2001)</title>
+<link>https://playplus.azureedge.net/RCFServer1/ondemand/SHREK01.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>Shrek 2 (2004)</title>
+<link>https://playplus.azureedge.net/RCFServer1/ondemand/SHREK02.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SwrbqS8Tv40bHx4AGYpNJX1xDW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SwrbqS8Tv40bHx4AGYpNJX1xDW.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>Shrek Terceiro (2007)</title>
+<link>https://playplus.azureedge.net/RCFServer1/ondemand/SHREK03.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>Shrek Para Sempre (2010)</title>
+<link>https://playplus.azureedge.net/RCFServer1/ondemand/SHREKPRSMPR.mp4?attachment=true</link>
+<thumbnail></thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ1vzJuKui9btHYqzn4ZEFwth2w.jpg</fanart>
+<info>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ1vzJuKui9btHYqzn4ZEFwth2w.jpg</info>
+<genre></genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>Nem Que a Vaca Tussa (2004)</title>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/NEMQAVCATUSA.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Sm61aFV7UVFMHWrzrSRRjVhiD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Sm61aFV7UVFMHWrzrSRRjVhiD.jpg</fanart>
 <info></info>
 <genre></genre>
 </item>
@@ -128,308 +209,6 @@
 <genre></genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title></title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
+
+
+
