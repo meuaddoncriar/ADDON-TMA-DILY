@@ -143,7 +143,7 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/alPfz0S3QrN6cd7Kxf03EfSWKuf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/alPfz0S3QrN6cd7Kxf03EfSWKuf.jpg</fanart>
 <info></info>
-<genre>ANIMAAÇÃO</genre>
+<genre>ANIMAÇÃO</genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -161,7 +161,7 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg</fanart>
 <info></info>
-<genre></genre>
+<genre>ANIMAÇÃO</genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -170,7 +170,7 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SwrbqS8Tv40bHx4AGYpNJX1xDW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SwrbqS8Tv40bHx4AGYpNJX1xDW.jpg</fanart>
 <info></info>
-<genre></genre>
+<genre>ANIMAÇÃO</genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -179,7 +179,7 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg</fanart>
 <info></info>
-<genre></genre>
+<genre>ANIMAÇÃO</genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -188,7 +188,7 @@
 <thumbnail></thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ1vzJuKui9btHYqzn4ZEFwth2w.jpg</fanart>
 <info>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ1vzJuKui9btHYqzn4ZEFwth2w.jpg</info>
-<genre></genre>
+<genre>ANIMAÇÃO</genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -197,7 +197,7 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Sm61aFV7UVFMHWrzrSRRjVhiD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6Sm61aFV7UVFMHWrzrSRRjVhiD.jpg</fanart>
 <info></info>
-<genre></genre>
+<genre>ANIMAÇÃO</genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -206,9 +206,45 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
-<genre></genre>
+<genre>ANIMAÇÃO</genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<item>
+<title>O Bom Gigante Amigo (2016)</title>
+<link>https://playplus.azureedge.net/RCFServer3/ondemand/OBMGIGNTAMG.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAF3nVvqvQEu89HNWg5yKO1mdeh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAF3nVvqvQEu89HNWg5yKO1mdeh.jpg</fanart>
+<info></info>
+<genre>AVENTURA</genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<item>
+<title>O Mentiroso (1997)</title>
+<link>https://playplus.azureedge.net/RCFServer3/ondemand/OMNTRSO.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fViD1rsvp95an7PN0oj3dqGIk0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fViD1rsvp95an7PN0oj3dqGIk0.jpg</fanart>
+<info></info>
+<genre>Comédia</genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>Número 23 (2007)</title>
+<link>https://playplus.azureedge.net/RCFServer1/ondemand/NUMR23.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ovaWmHzESs66YgwNAijEr7s2RR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ovaWmHzESs66YgwNAijEr7s2RR.jpg</fanart>
+<info></info>
+<genre>Drama</genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<item>
+<title>Ace Ventura: Um Detetive Diferente (1994)</title>
+<link>https://playplus.azureedge.net/RCFServer3/ondemand/OFLHDACVNTURA.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2WsM7e0sv3IM3BgTKKesY1dAOt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2WsM7e0sv3IM3BgTKKesY1dAOt.jpg</fanart>
+<info></info>
+<genre>Comédia</genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
