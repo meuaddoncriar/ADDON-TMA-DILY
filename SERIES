@@ -18,6 +18,20 @@ https://raw.githubusercontent.com/meuaddoncriar/ADDON-TMA-DILY/master/All%20Amer
 
 <channels>
 <channel>
+<name>Gilmore Girls</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6faSlarSOy6Fa6UBzFI3Nrxd6K.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/meuaddoncriar/ADDON-TMA-DILY/master/Gilmore%20Girls</externallink>
+<fanart>https://image.tmdb.org/t/p/original/d6zPhw7e6iEY5iRvtm5gL1hbS3h.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - SERIES - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
 <name>GOTHAM</name>
 <thumbnail>https://image.tmdb.org/t/p/original/nOeHVzmh3uSFkcQKIlzzDtF2211.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/meuaddoncriar/ADDON-TMA-DILY/master/GOTHAM</externallink>
