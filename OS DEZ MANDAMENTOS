@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,
-https://chocolate-albino.azureedge.net/RCServer14/ondemand/OSDZMNDMNTSTCP001.mp4
+https://chocolate-albino.azureedge.net/RCServer14/ondemand/OSDZMNDMNTSTCP001.mp4?attachment=true
 
 #EXTINF:-1,02
-https://chocolate-albino.azureedge.net/RCServer14/ondemand/OSDZMNDMNTSTCP002.mp4
+https://chocolate-albino.azureedge.net/RCServer14/ondemand/OSDZMNDMNTSTCP002.mp4?attachment=true
 
 #EXTINF:-1,03
-https://chocolate-albino.azureedge.net/RCServer14/ondemand/OSDZMNDMNTSTCP003.mp4
+https://chocolate-albino.azureedge.net/RCServer14/ondemand/OSDZMNDMNTSTCP003.mp4?attachment=true
 
 #EXTINF:-1,04
 https://chocolate-albino.azureedge.net/RCServer14/ondemand/OSDZMNDMNTSTCP004.mp4
