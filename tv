@@ -1,0 +1,945 @@
+#EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="CanaisTop",A&E 
+http://rec2.distv.net:80/live/ibl/ibl/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="CanaisTop",AMC
+http://rec2.distv.net:80/live/ibl/ibl/223.ts
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://distv.net/icons/animalplanet.png" group-title="CanaisTop",ANIMAL PLANET
+http://rec2.distv.net:80/live/ibl/ibl/114.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="http://distv.net/icons/arte1.png" group-title="CanaisTop",ARTE 1
+http://rec2.distv.net:80/live/ibl/ibl/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="CanaisTop",AXN
+http://rec2.distv.net:80/live/ibl/ibl/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://distv.net/icons/babytv.png" group-title="CanaisTop",BABY TV
+http://rec2.distv.net:80/live/ibl/ibl/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CanaisTop",BAND
+http://rec2.distv.net:80/live/ibl/ibl/224.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://distv.net/icons/bandnews.png" group-title="REPORTAGEM",BAND NEWS
+http://rec2.distv.net:80/live/ibl/ibl/118.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND PALMAS" tvg-logo="http://distv.net/icons/band.png" group-title="CanaisTop",BAND PALMAS
+http://rec2.distv.net:80/live/ibl/ibl/299.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND RN" tvg-logo="" group-title="CanaisTop",BAND RN
+http://rec2.distv.net:80/live/ibl/ibl/294.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND CanaisTop" tvg-logo="http://distv.net/icons/bandCanaisTop.png" group-title="CanaisTop",BAND Sports
+http://rec2.distv.net:80/live/ibl/ibl/119.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://distv.net/icons/bis.png" group-title="CanaisTop",BIS
+http://rec2.distv.net:80/live/ibl/ibl/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="CanaisTop",BOOMERANG
+http://rec2.distv.net:80/live/ibl/ibl/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="http://distv.net/icons/sonychannel.png" group-title="CanaisTop",CANAL SONY
+http://rec2.distv.net:80/live/ibl/ibl/123.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="http://distv.net/icons/cancaonovoceara.png" group-title="CanaisTop",CANÇÃO NOVA
+http://rec2.distv.net:80/live/ibl/ibl/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="CanaisTop",CARTOON NETWORK
+http://rec2.distv.net:80/live/ibl/ibl/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanaisTop 01" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CanaisTop",CanaisTop 01
+http://rec2.distv.net:80/live/ibl/ibl/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanaisTop 02" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CanaisTop",CanaisTop 02
+http://rec2.distv.net:80/live/ibl/ibl/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanaisTop 03" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CanaisTop",CanaisTop 03
+http://rec2.distv.net:80/live/ibl/ibl/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanaisTop 04" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CanaisTop",CanaisTop 04
+http://rec2.distv.net:80/live/ibl/ibl/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanaisTop 05" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CanaisTop",CanaisTop 05
+http://rec2.distv.net:80/live/ibl/ibl/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanaisTop 06" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CanaisTop",CanaisTop 06
+http://rec2.distv.net:80/live/ibl/ibl/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanaisTop 07" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CanaisTop",CanaisTop 07
+http://rec2.distv.net:80/live/ibl/ibl/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanaisTop 08" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CanaisTop",CanaisTop 08
+http://rec2.distv.net:80/live/ibl/ibl/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanaisTop 09" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CanaisTop",CanaisTop 09
+http://rec2.distv.net:80/live/ibl/ibl/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="CanaisTop 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CanaisTop",CanaisTop 10
+http://rec2.distv.net:80/live/ibl/ibl/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="CanaisTop",CINEMAX
+http://rec2.distv.net:80/live/ibl/ibl/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="CanaisTop",COMBATE
+http://rec2.distv.net:80/live/ibl/ibl/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="CanaisTop",COMEDY CENTRAL
+http://rec2.distv.net:80/live/ibl/ibl/127.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://distv.net/icons/discoverychannel.png" group-title="CanaisTop",DISCOVERY CHANNEL
+http://rec2.distv.net:80/live/ibl/ibl/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://distv.net/icons/discoveryhomehealth.png" group-title="CanaisTop",DISCOVERY HOME & HEALTH
+http://rec2.distv.net:80/live/ibl/ibl/131.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://distv.net/icons/discoveryid.png" group-title="CanaisTop",DISCOVERY ID
+http://rec2.distv.net:80/live/ibl/ibl/132.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CanaisTop" tvg-logo="http://distv.net/icons/discoveryCanaisTop.png" group-title="CanaisTop",DISCOVERY CanaisTop
+http://rec2.distv.net:80/live/ibl/ibl/133.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://distv.net/icons/discoveryscience.png" group-title="CanaisTop",DISCOVERY SCIENCE
+http://rec2.distv.net:80/live/ibl/ibl/134.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="http://distv.net/icons/discoverytheater.png" group-title="CanaisTop",DISCOVERY THEATER
+http://rec2.distv.net:80/live/ibl/ibl/135.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://distv.net/icons/discoveryturbo.png" group-title="CanaisTop",DISCOVERY TURBO
+http://rec2.distv.net:80/live/ibl/ibl/136.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://distv.net/icons/discoveryworld.png" group-title="CanaisTop",DISCOVERY WORLD
+http://rec2.distv.net:80/live/ibl/ibl/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="CanaisTop",DISNEY CHANNEL
+http://rec2.distv.net:80/live/ibl/ibl/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="CanaisTop",DISNEY JR
+http://rec2.distv.net:80/live/ibl/ibl/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="CanaisTop",DISNEY XD
+http://rec2.distv.net:80/live/ibl/ibl/140.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://distv.net/icons/e.png" group-title="CanaisTop",E!
+http://rec2.distv.net:80/live/ibl/ibl/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="CanaisTop",ESPN
+http://rec2.distv.net:80/live/ibl/ibl/142.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="CanaisTop",ESPN 2
+http://rec2.distv.net:80/live/ibl/ibl/143.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="CanaisTop",ESPN BRASIL
+http://rec2.distv.net:80/live/ibl/ibl/144.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="CanaisTop",ESPN EXTRA
+http://rec2.distv.net:80/live/ibl/ibl/145.ts
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="" group-title="CanaisTop",EURO NEWS
+http://rec2.distv.net:80/live/ibl/ibl/270.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://distv.net/icons/foodnetwork.png" group-title="CanaisTop",FOOD NETWORK
+http://rec2.distv.net:80/live/ibl/ibl/147.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://distv.net/icons/foxchannel.png" group-title="CanaisTop",FOX
+http://rec2.distv.net:80/live/ibl/ibl/148.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="CanaisTop",FOX LIFE
+http://rec2.distv.net:80/live/ibl/ibl/149.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="http://distv.net/icons/foxpremium1.png" group-title="CanaisTop",FOX PREMIUM 1
+http://rec2.distv.net:80/live/ibl/ibl/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="http://distv.net/icons/foxpremium2.png" group-title="CanaisTop",FOX PREMIUM 2
+http://rec2.distv.net:80/live/ibl/ibl/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX CanaisTop" tvg-logo="http://distv.net/icons/foxCanaisTop.png" group-title="CanaisTop",FOX Sports
+http://rec2.distv.net:80/live/ibl/ibl/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX CanaisTop 2" tvg-logo="http://distv.net/icons/foxCanaisTop2.png" group-title="CanaisTop",FOX Sports 2
+http://rec2.distv.net:80/live/ibl/ibl/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="http://distv.net/icons/futura.png" group-title="CanaisTop",FUTURA
+http://rec2.distv.net:80/live/ibl/ibl/228.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://distv.net/icons/fx.png" group-title="CanaisTop",FX
+http://rec2.distv.net:80/live/ibl/ibl/229.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="http://distv.net/icons/gloobinho.png" group-title="CanaisTop",GLOOBINHO
+http://rec2.distv.net:80/live/ibl/ibl/215.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://distv.net/icons/gnt.png" group-title="CanaisTop",GNT
+http://rec2.distv.net:80/live/ibl/ibl/155.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://distv.net/icons/hbo.png" group-title="CanaisTop",HBO
+http://rec2.distv.net:80/live/ibl/ibl/156.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://distv.net/icons/hbo2.png" group-title="CanaisTop",HBO 2
+http://rec2.distv.net:80/live/ibl/ibl/157.ts
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://distv.net/icons/hbofamily.png" group-title="CanaisTop",HBO FAMILY
+http://rec2.distv.net:80/live/ibl/ibl/158.ts
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://distv.net/icons/hbomundi.png" group-title="CanaisTop",HBO MUNDI
+http://rec2.distv.net:80/live/ibl/ibl/159.ts
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://distv.net/icons/hboplus.png" group-title="CanaisTop",HBO PLUS
+http://rec2.distv.net:80/live/ibl/ibl/160.ts
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://distv.net/icons/hbopop.png" group-title="CanaisTop",HBO POP
+http://rec2.distv.net:80/live/ibl/ibl/161.ts
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://distv.net/icons/hbosignature.png" group-title="CanaisTop",HBO SIGNATURE
+http://rec2.distv.net:80/live/ibl/ibl/162.ts
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="CanaisTop",HBO XTREME
+http://rec2.distv.net:80/live/ibl/ibl/163.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://distv.net/icons/hgtv.png" group-title="CanaisTop",HGTV
+http://rec2.distv.net:80/live/ibl/ibl/164.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://distv.net/icons/historychannel.png" group-title="CanaisTop",HISTORY
+http://rec2.distv.net:80/live/ibl/ibl/165.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="http://distv.net/icons/h2.png" group-title="CanaisTop",HISTORY 2
+http://rec2.distv.net:80/live/ibl/ibl/166.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="http://distv.net/icons/lifetime.png" group-title="CanaisTop",LIFE TIME
+http://rec2.distv.net:80/live/ibl/ibl/167.ts
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://distv.net/icons/megapix.png" group-title="CanaisTop",MEGAPIX
+http://rec2.distv.net:80/live/ibl/ibl/168.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://distv.net/icons/mtv.png" group-title="CanaisTop",MTV
+http://rec2.distv.net:80/live/ibl/ibl/169.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="http://distv.net/icons/mtv.png" group-title="CanaisTop",MTV LIVE
+http://rec2.distv.net:80/live/ibl/ibl/236.ts
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="http://distv.net/icons/multishow.png" group-title="CanaisTop",MULTISHOW
+http://rec2.distv.net:80/live/ibl/ibl/170.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="http://distv.net/icons/musicboxbrazil.png" group-title="CanaisTop",MUSIC BOX BRAZIL
+http://rec2.distv.net:80/live/ibl/ibl/171.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="http://distv.net/icons/natgeo.png" group-title="CanaisTop",NAT GEO
+http://rec2.distv.net:80/live/ibl/ibl/172.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO CanaisTop" tvg-logo="http://distv.net/icons/natgeoCanaisTop.png" group-title="CanaisTop",NAT GEO CanaisTop
+http://rec2.distv.net:80/live/ibl/ibl/173.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://distv.net/icons/natgeowild.png" group-title="CanaisTop",NAT GEO WILD
+http://rec2.distv.net:80/live/ibl/ibl/174.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="http://distv.net/icons/nick.png" group-title="CanaisTop",NICK
+http://rec2.distv.net:80/live/ibl/ibl/175.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://distv.net/icons/nickjr.png" group-title="CanaisTop",NICK JR
+http://rec2.distv.net:80/live/ibl/ibl/176.ts
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="http://distv.net/icons/off.png" group-title="CanaisTop",OFF
+http://rec2.distv.net:80/live/ibl/ibl/177.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://distv.net/icons/paramount.png" group-title="CanaisTop",PARAMOUNT
+http://rec2.distv.net:80/live/ibl/ibl/178.ts
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN" tvg-logo="http://distv.net/icons/smithsonian.png" group-title="CanaisTop",SMITHSONIAN
+http://rec2.distv.net:80/live/ibl/ibl/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" group-title="CanaisTop",SPACE
+http://rec2.distv.net:80/live/ibl/ibl/187.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPNET" tvg-logo="" group-title="CanaisTop",SPNET
+http://rec2.distv.net:80/live/ibl/ibl/290.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="http://distv.net/icons/sportv.png" group-title="CanaisTop",SPORTV
+http://rec2.distv.net:80/live/ibl/ibl/188.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" group-title="CanaisTop",SPORTV 2
+http://rec2.distv.net:80/live/ibl/ibl/189.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" group-title="CanaisTop",SPORTV 3
+http://rec2.distv.net:80/live/ibl/ibl/190.ts
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="CanaisTop",STUDIO UNIVERSAL
+http://rec2.distv.net:80/live/ibl/ibl/191.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://distv.net/icons/syfy.png" group-title="CanaisTop",SYFY
+http://rec2.distv.net:80/live/ibl/ibl/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBC" tvg-logo="" group-title="CanaisTop",TBC
+http://rec2.distv.net:80/live/ibl/ibl/278.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://distv.net/icons/tbs.png" group-title="CanaisTop",TBS
+http://rec2.distv.net:80/live/ibl/ibl/193.ts
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="CanaisTop",TELECINE ACTION
+http://rec2.distv.net:80/live/ibl/ibl/194.ts
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://distv.net/icons/tccult.png" group-title="CanaisTop",TELECINE CULT
+http://rec2.distv.net:80/live/ibl/ibl/195.ts
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="CanaisTop",TELECINE FUN
+http://rec2.distv.net:80/live/ibl/ibl/196.ts
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://distv.net/icons/tcpipoca.png" group-title="CanaisTop",TELECINE PIPOCA
+http://rec2.distv.net:80/live/ibl/ibl/197.ts
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="CanaisTop",TELECINE PREMIUM
+http://rec2.distv.net:80/live/ibl/ibl/198.ts
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://distv.net/icons/tctouch.png" group-title="CanaisTop",TELECINE TOUCH
+http://rec2.distv.net:80/live/ibl/ibl/199.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://distv.net/icons/tlc.png" group-title="CanaisTop",TLC
+http://rec2.distv.net:80/live/ibl/ibl/200.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="CanaisTop",TNT
+http://rec2.distv.net:80/live/ibl/ibl/201.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="CanaisTop",TNT SERIES
+http://rec2.distv.net:80/live/ibl/ibl/202.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://distv.net/icons/tooncast.png" group-title="CanaisTop",TOONCAST
+http://rec2.distv.net:80/live/ibl/ibl/203.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRAVELBOX" tvg-logo="http://distv.net/icons/travelboxbrazil.png" group-title="CanaisTop",TRAVELBOX
+http://rec2.distv.net:80/live/ibl/ibl/240.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TAROBA" tvg-logo="http://distv.net/icons/tvtaroba.png" group-title="CanaisTop",TV TAROBA
+http://rec2.distv.net:80/live/ibl/ibl/109.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA" tvg-logo="http://distv.net/icons/tvtribuna.png" group-title="CanaisTop",TV TRIBUNA
+http://rec2.distv.net:80/live/ibl/ibl/77.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" group-title="CanaisTop",UNIVERSAL TV
+http://rec2.distv.net:80/live/ibl/ibl/205.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVESP" tvg-logo="" group-title="CanaisTop",UNIVESP
+http://rec2.distv.net:80/live/ibl/ibl/292.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://distv.net/icons/vh1megahits.png" group-title="CanaisTop",VH1
+http://rec2.distv.net:80/live/ibl/ibl/206.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="http://distv.net/icons/viva.png" group-title="CanaisTop",VIVA
+http://rec2.distv.net:80/live/ibl/ibl/207.ts
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="CanaisTop",WARNER CHANNEL
+http://rec2.distv.net:80/live/ibl/ibl/208.ts
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://distv.net/icons/woohoo.png" group-title="CanaisTop",WOOHOO
+http://rec2.distv.net:80/live/ibl/ibl/243.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="CanaisTop",ZOOMOO
+http://rec2.distv.net:80/live/ibl/ibl/244.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="http://distv.net/icons/playtv.png" group-title="CanaisTop",PLAY TV
+http://rec2.distv.net:80/live/ibl/ibl/217.ts
+
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC FOZ DO IGUACU SD" tvg-logo="http://i.seuip.tv/3658.jpg" group-title="CanaisTop2",GLOBO RPC FOZ DO IGUACU SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7733.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="http://i.seuip.tv/3658.jpg" group-title="CanaisTop2",GLOBO RPC MARINGA HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/11983.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="http://i.seuip.tv/3658.jpg" group-title="CanaisTop2",GLOBO RPC MARINGA FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/11982.ts
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC MARINGA SD" tvg-logo="http://i.seuip.tv/3658.jpg" group-title="CanaisTop2",GLOBO RPC MARINGA SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/11984.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://i.seuip.tv/115.png" group-title="CanaisTop2",SPORTV HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/115.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD ALT" tvg-logo="http://i.seuip.tv/115.png" group-title="CanaisTop2",SPORTV HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4058.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://i.seuip.tv/114.png" group-title="CanaisTop2",SPORTV FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/114.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD ALT" tvg-logo="http://i.seuip.tv/114.png" group-title="CanaisTop2",SPORTV FHD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5414.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="http://i.seuip.tv/118.png" group-title="CanaisTop2",SPORTV SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/118.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD ALT" tvg-logo="http://i.seuip.tv/118.png" group-title="CanaisTop2",SPORTV SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4059.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://i.seuip.tv/121.png" group-title="CanaisTop2",SPORTV 2 HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/121.ts
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SPORTV 2 HD ALT" tvg-logo="http://i.seuip.tv/121.png" group-title="CanaisTop2",SPORTV 2 HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4060.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://i.seuip.tv/120.png" group-title="CanaisTop2",SPORTV 2 FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/120.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://i.seuip.tv/123.png" group-title="CanaisTop2",SPORTV 2 SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/123.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD ALT" tvg-logo="http://i.seuip.tv/123.png" group-title="CanaisTop2",SPORTV 2 SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4061.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://i.seuip.tv/125.png" group-title="CanaisTop2",SPORTV 3 HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/125.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD ALT" tvg-logo="http://i.seuip.tv/125.png" group-title="CanaisTop2",SPORTV 3 HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4062.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://i.seuip.tv/124.png" group-title="CanaisTop2",SPORTV 3 FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/124.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://i.seuip.tv/127.png" group-title="CanaisTop2",SPORTV 3 SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/127.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD ALT" tvg-logo="http://i.seuip.tv/127.png" group-title="CanaisTop2",SPORTV 3 SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4063.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="http://i.seuip.tv/130.png" group-title="CanaisTop2",FOX SPORTS HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/130.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD ALT" tvg-logo="http://i.seuip.tv/130.png" group-title="CanaisTop2",FOX SPORTS HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4065.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD" tvg-logo="http://i.seuip.tv/128.png" group-title="CanaisTop2",FOX SPORTS FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/128.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://i.seuip.tv/134.png" group-title="CanaisTop2",FOX SPORTS SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/134.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD ALT" tvg-logo="http://i.seuip.tv/134.png" group-title="CanaisTop2",FOX SPORTS SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4066.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://i.seuip.tv/137.png" group-title="CanaisTop2",FOX SPORTS 2 HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/137.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD ALT" tvg-logo="http://i.seuip.tv/137.png" group-title="CanaisTop2",FOX SPORTS 2 HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4067.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://i.seuip.tv/137.png" group-title="CanaisTop2",FOX SPORTS 2 FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4064.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://i.seuip.tv/140.png" group-title="CanaisTop2",FOX SPORTS 2 SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/140.ts
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD ALT" tvg-logo="http://i.seuip.tv/137.png" group-title="CanaisTop2",FOX SPORTS 2 SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4068.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://i.seuip.tv/142.png" group-title="CanaisTop2",COMBATE HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/142.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD ALT" tvg-logo="http://i.seuip.tv/142.png" group-title="CanaisTop2",COMBATE HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4056.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="http://i.seuip.tv/141.png" group-title="CanaisTop2",COMBATE FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/141.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="http://i.seuip.tv/145.png" group-title="CanaisTop2",COMBATE SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/145.ts
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD ALT" tvg-logo="http://i.seuip.tv/142.png" group-title="CanaisTop2",COMBATE SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4057.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://i.seuip.tv/149.png" group-title="CanaisTop2",ESPN BRASIL HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/149.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD ALT" tvg-logo="http://i.seuip.tv/149.png" group-title="CanaisTop2",ESPN BRASIL HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4069.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="http://i.seuip.tv/148.png" group-title="CanaisTop2",ESPN BRASIL FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/148.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="http://i.seuip.tv/152.png" group-title="CanaisTop2",ESPN BRASIL SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/152.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD ALT" tvg-logo="http://i.seuip.tv/152.png" group-title="CanaisTop2",ESPN BRASIL SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4070.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="http://i.seuip.tv/154.png" group-title="CanaisTop2",ESPN HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/154.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD ALT" tvg-logo="http://i.seuip.tv/154.png" group-title="CanaisTop2",ESPN HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4071.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD" tvg-logo="http://i.seuip.tv/153.png" group-title="CanaisTop2",ESPN FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/153.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="http://i.seuip.tv/157.png" group-title="CanaisTop2",ESPN SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/157.ts
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD ALT" tvg-logo="http://i.seuip.tv/154.png" group-title="CanaisTop2",ESPN SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4072.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 HD" tvg-logo="http://i.seuip.tv/159.png" group-title="CanaisTop2",ESPN2 HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/159.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 HD ALT" tvg-logo="http://i.seuip.tv/159.png" group-title="CanaisTop2",ESPN2 HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4073.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 FHD" tvg-logo="http://i.seuip.tv/159.png" group-title="CanaisTop2",ESPN2 FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7642.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 SD" tvg-logo="http://i.seuip.tv/161.png" group-title="CanaisTop2",ESPN2 SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/161.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 SD ALT" tvg-logo="http://i.seuip.tv/159.png" group-title="CanaisTop2",ESPN2 SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4074.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://ugc.kn3.net/i/origin/http://cdn.vizio.com/skin/frontend/enterprise/vizio/landingpages/gamedaylanding2/images/gd-apps-logo-ESPN-extra.png" group-title="CanaisTop2",ESPN EXTRA HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4075.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://ugc.kn3.net/i/origin/http://cdn.vizio.com/skin/frontend/enterprise/vizio/landingpages/gamedaylanding2/images/gd-apps-logo-ESPN-extra.png" group-title="CanaisTop2",ESPN EXTRA FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5499.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://ugc.kn3.net/i/origin/http://cdn.vizio.com/skin/frontend/enterprise/vizio/landingpages/gamedaylanding2/images/gd-apps-logo-ESPN-extra.png" group-title="CanaisTop2",ESPN EXTRA SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4076.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://2.bp.blogspot.com/-iTSpCY_VjsQ/Wt8pZl3ER_I/AAAAAAABUwY/8ALvoLBvU-0RJQdzfCyg3mYF2085fxoEwCLcBGAs/s1600/LOGOTIPO_BAND.jpg" group-title="CanaisTop2",BAND CAMPINAS HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7407.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://i.seuip.tv/180.png" group-title="CanaisTop2",BAND SPORTS HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/180.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD ALT" tvg-logo="http://i.seuip.tv/180.png" group-title="CanaisTop2",BAND SPORTS HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4078.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://i.seuip.tv/179.png" group-title="CanaisTop2",BAND SPORTS FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/179.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="http://i.seuip.tv/182.png" group-title="CanaisTop2",BAND SPORTS SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/182.ts
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD ALT" tvg-logo="http://i.seuip.tv/182.png" group-title="CanaisTop2",BAND SPORTS SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4079.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://i.seuip.tv/183.png" group-title="CanaisTop2",OFF HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/183.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD ALT" tvg-logo="http://i.seuip.tv/183.png" group-title="CanaisTop2",OFF HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4080.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD" tvg-logo="http://i.seuip.tv/2237.png" group-title="CanaisTop2",OFF FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/2237.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://i.seuip.tv/184.png" group-title="CanaisTop2",OFF SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/184.ts
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD ALT" tvg-logo="http://i.seuip.tv/184.png" group-title="CanaisTop2",OFF SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4081.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV H265 FHD" tvg-logo="http://i.seuip.tv/185.png" group-title="CanaisTop2",FISH TV H265 FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/185.ts
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://i.seuip.tv/186.png" group-title="CanaisTop2",FISH TV SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/186.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://i.seuip.tv/238.png" group-title="CanaisTop2",TELECINE PREMIUM HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/238.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD ALT" tvg-logo="http://i.seuip.tv/237.png" group-title="CanaisTop2",TELECINE PREMIUM HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5525.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://i.seuip.tv/237.png" group-title="CanaisTop2",TELECINE PREMIUM FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/237.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://i.seuip.tv/241.png" group-title="CanaisTop2",TELECINE PREMIUM SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/241.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD ALT" tvg-logo="http://i.seuip.tv/237.png" group-title="CanaisTop2",TELECINE PREMIUM SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5526.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://i.seuip.tv/245.png" group-title="CanaisTop2",TELECINE ACTION HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/245.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD ALT" tvg-logo="http://i.seuip.tv/245.png" group-title="CanaisTop2",TELECINE ACTION HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5527.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://i.seuip.tv/244.png" group-title="CanaisTop2",TELECINE ACTION FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/244.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="http://i.seuip.tv/248.png" group-title="CanaisTop2",TELECINE ACTION SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/248.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD ALT" tvg-logo="http://i.seuip.tv/245.png" group-title="CanaisTop2",TELECINE ACTION SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5528.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://i.seuip.tv/251.png" group-title="CanaisTop2",TELECINE PIPOCA HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/251.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD ALT" tvg-logo="http://i.seuip.tv/251.png" group-title="CanaisTop2",TELECINE PIPOCA HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5529.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://i.seuip.tv/250.png" group-title="CanaisTop2",TELECINE PIPOCA FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/250.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://i.seuip.tv/253.png" group-title="CanaisTop2",TELECINE PIPOCA SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/253.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD ALT" tvg-logo="http://i.seuip.tv/251.png" group-title="CanaisTop2",TELECINE PIPOCA SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5530.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://i.seuip.tv/255.png" group-title="CanaisTop2",TELECINE FUN HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/255.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD ALT" tvg-logo="http://i.seuip.tv/255.png" group-title="CanaisTop2",TELECINE FUN HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5531.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="http://i.seuip.tv/254.png" group-title="CanaisTop2",TELECINE FUN FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/254.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="http://i.seuip.tv/254.png" group-title="CanaisTop2",TELECINE FUN SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/257.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD ALT" tvg-logo="http://i.seuip.tv/255.png" group-title="CanaisTop2",TELECINE FUN SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5532.ts
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH HD" tvg-logo="http://i.seuip.tv/260.png" group-title="CanaisTop2",TELECINE TOUCH HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/260.ts
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH HD ALT" tvg-logo="http://i.seuip.tv/260.png" group-title="CanaisTop2",TELECINE TOUCH HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5533.ts
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://i.seuip.tv/259.png" group-title="CanaisTop2",TELECINE TOUCH FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/259.ts
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH SD" tvg-logo="http://i.seuip.tv/263.png" group-title="CanaisTop2",TELECINE TOUCH SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/263.ts
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH SD ALT" tvg-logo="http://i.seuip.tv/260.png" group-title="CanaisTop2",TELECINE TOUCH SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5534.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://i.seuip.tv/266.png" group-title="CanaisTop2",TELECINE CULT HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/266.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD ALT" tvg-logo="http://i.seuip.tv/266.png" group-title="CanaisTop2",TELECINE CULT HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5535.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="http://i.seuip.tv/265.png" group-title="CanaisTop2",TELECINE CULT FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/265.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="http://i.seuip.tv/265.png" group-title="CanaisTop2",TELECINE CULT SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/268.ts
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD ALT" tvg-logo="http://i.seuip.tv/265.png" group-title="CanaisTop2",TELECINE CULT SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5536.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://i.seuip.tv/270.png" group-title="CanaisTop2",MEGAPIX HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/270.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD ALT" tvg-logo="http://i.seuip.tv/270.png" group-title="CanaisTop2",MEGAPIX HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5538.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://i.seuip.tv/269.png" group-title="CanaisTop2",MEGAPIX FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/269.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD ALT" tvg-logo="http://i.seuip.tv/270.png" group-title="CanaisTop2",MEGAPIX FHD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5537.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://i.seuip.tv/273.png" group-title="CanaisTop2",MEGAPIX SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/273.ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD ALT" tvg-logo="http://i.seuip.tv/273.png" group-title="CanaisTop2",MEGAPIX SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5539.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://i.seuip.tv/275.png" group-title="CanaisTop2",UNIVERSAL CHANNEL HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/275.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD ALT" tvg-logo="http://i.seuip.tv/275.png" group-title="CanaisTop2",UNIVERSAL CHANNEL HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5540.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://i.seuip.tv/274.png" group-title="CanaisTop2",UNIVERSAL CHANNEL FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/274.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://i.seuip.tv/277.png" group-title="CanaisTop2",UNIVERSAL CHANNEL SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/277.ts
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD ALT" tvg-logo="http://i.seuip.tv/275.png" group-title="CanaisTop2",UNIVERSAL CHANNEL SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5541.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://i.seuip.tv/279.png" group-title="CanaisTop2",STUDIO UNIVERSAL HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/279.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD ALT" tvg-logo="http://i.seuip.tv/279.png" group-title="CanaisTop2",STUDIO UNIVERSAL HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5542.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://i.seuip.tv/278.png" group-title="CanaisTop2",STUDIO UNIVERSAL FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/278.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://i.seuip.tv/282.png" group-title="CanaisTop2",STUDIO UNIVERSAL SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/282.ts
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD ALT" tvg-logo="http://i.seuip.tv/279.png" group-title="CanaisTop2",STUDIO UNIVERSAL SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5543.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://i.seuip.tv/284.png" group-title="CanaisTop2",SYFY HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/284.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD ALT" tvg-logo="http://i.seuip.tv/284.png" group-title="CanaisTop2",SYFY HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5544.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="http://i.seuip.tv/283.png" group-title="CanaisTop2",SYFY FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/283.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="http://i.seuip.tv/286.png" group-title="CanaisTop2",SYFY SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/286.ts
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD ALT" tvg-logo="http://i.seuip.tv/284.png" group-title="CanaisTop2",SYFY SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5545.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://i.seuip.tv/289.png" group-title="CanaisTop2",CANAL BRASIL HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4130.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="http://i.seuip.tv/289.png" group-title="CanaisTop2",CANAL BRASIL FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7658.ts
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="http://i.seuip.tv/289.png" group-title="CanaisTop2",CANAL BRASIL SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/289.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://i.seuip.tv/292.png" group-title="CanaisTop2",HBO HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/292.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD ALT" tvg-logo="http://i.seuip.tv/292.png" group-title="CanaisTop2",HBO HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5546.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://i.seuip.tv/291.png" group-title="CanaisTop2",HBO FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/291.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://i.seuip.tv/296.png" group-title="CanaisTop2",HBO SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/296.ts
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD ALT" tvg-logo="http://i.seuip.tv/292.png" group-title="CanaisTop2",HBO SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5547.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://i.seuip.tv/299.png" group-title="CanaisTop2",HBO 2 HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/299.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD ALT" tvg-logo="http://i.seuip.tv/299.png" group-title="CanaisTop2",HBO 2 HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5548.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://i.seuip.tv/298.png" group-title="CanaisTop2",HBO 2 FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/298.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://i.seuip.tv/301.png" group-title="CanaisTop2",HBO 2 SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/301.ts
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD ALT" tvg-logo="http://i.seuip.tv/299.png" group-title="CanaisTop2",HBO 2 SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5549.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://i.seuip.tv/304.png" group-title="CanaisTop2",HBO PLUS HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/304.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD ALT" tvg-logo="http://i.seuip.tv/304.png" group-title="CanaisTop2",HBO PLUS HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5550.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://i.seuip.tv/303.png" group-title="CanaisTop2",HBO PLUS FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/303.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="http://i.seuip.tv/307.png" group-title="CanaisTop2",HBO PLUS SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/307.ts
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD ALT" tvg-logo="http://i.seuip.tv/304.png" group-title="CanaisTop2",HBO PLUS SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5551.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://i.seuip.tv/311.png" group-title="CanaisTop2",HBO FAMILY HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/311.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD ALT" tvg-logo="http://i.seuip.tv/311.png" group-title="CanaisTop2",HBO FAMILY HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5552.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://i.seuip.tv/310.png" group-title="CanaisTop2",HBO FAMILY FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/310.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://i.seuip.tv/314.png" group-title="CanaisTop2",HBO FAMILY SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/314.ts
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD ALT" tvg-logo="http://i.seuip.tv/311.png" group-title="CanaisTop2",HBO FAMILY SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5553.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://i.seuip.tv/316.png" group-title="CanaisTop2",HBO SIGNATURE HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/316.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD ALT" tvg-logo="http://i.seuip.tv/316.png" group-title="CanaisTop2",HBO SIGNATURE HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5554.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://i.seuip.tv/315.png" group-title="CanaisTop2",HBO SIGNATURE FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/315.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://i.seuip.tv/319.png" group-title="CanaisTop2",HBO SIGNATURE SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/319.ts
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD ALT" tvg-logo="http://i.seuip.tv/316.png" group-title="CanaisTop2",HBO SIGNATURE SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5555.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/On_Demand_%28Sky%29_logo.png" group-title="CanaisTop2",CINE SKY PLAY 1
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57586.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/On_Demand_%28Sky%29_logo.png" group-title="CanaisTop2",CINE SKY PLAY 2
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57587.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/On_Demand_%28Sky%29_logo.png" group-title="CanaisTop2",CINE SKY PLAY 3
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57588.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/On_Demand_%28Sky%29_logo.png" group-title="CanaisTop2",CINE SKY PLAY 4
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57589.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/On_Demand_%28Sky%29_logo.png" group-title="CanaisTop2",CINE SKY PLAY 5
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57590.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/On_Demand_%28Sky%29_logo.png" group-title="CanaisTop2",CINE SKY PLAY 6
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57591.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/On_Demand_%28Sky%29_logo.png" group-title="CanaisTop2",CINE SKY PLAY 7
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57592.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/On_Demand_%28Sky%29_logo.png" group-title="CanaisTop2",CINE SKY PLAY 8
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57593.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/On_Demand_%28Sky%29_logo.png" group-title="CanaisTop2",CINE SKY PLAY 9
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57594.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://i.seuip.tv/379.png" group-title="CanaisTop2",A&E HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/379.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD ALT" tvg-logo="http://i.seuip.tv/379.png" group-title="CanaisTop2",A&E HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5562.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://i.seuip.tv/378.png" group-title="CanaisTop2",A&E FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/378.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://i.seuip.tv/382.png" group-title="CanaisTop2",A&E SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/382.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD ALT" tvg-logo="http://i.seuip.tv/379.png" group-title="CanaisTop2",A&E SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5563.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://i.seuip.tv/392.png" group-title="CanaisTop2",AMC HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/392.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://i.seuip.tv/391.png" group-title="CanaisTop2",AMC FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/391.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://i.seuip.tv/395.png" group-title="CanaisTop2",AMC SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/395.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://i.seuip.tv/397.png" group-title="CanaisTop2",AXN HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/398.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://i.seuip.tv/397.png" group-title="CanaisTop2",AXN FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/397.ts
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://i.seuip.tv/400.png" group-title="CanaisTop2",AXN SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/400.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://i.seuip.tv/371.png" group-title="CanaisTop2",CINEMAX HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/371.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://i.seuip.tv/370.png" group-title="CanaisTop2",CINEMAX FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/370.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="http://i.seuip.tv/373.png" group-title="CanaisTop2",CINEMAX SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/373.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="http://i.seuip.tv/356.png" group-title="CanaisTop2",CANAL SONY HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/356.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="http://i.seuip.tv/355.png" group-title="CanaisTop2",CANAL SONY FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/355.ts
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="http://i.seuip.tv/358.png" group-title="CanaisTop2",CANAL SONY SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/358.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://i.seuip.tv/340.png" group-title="CanaisTop2",FOX HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/340.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD" tvg-logo="http://i.seuip.tv/338.png" group-title="CanaisTop2",FOX FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/338.ts
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD" tvg-logo="http://i.seuip.tv/343.png" group-title="CanaisTop2",FOX SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/343.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="http://i.seuip.tv/350.png" group-title="CanaisTop2",FOX LIFE HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/350.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE FHD" tvg-logo="http://i.seuip.tv/350.png" group-title="CanaisTop2",FOX LIFE FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7643.ts
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="http://i.seuip.tv/351.png" group-title="CanaisTop2",FOX LIFE SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/351.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://i.seuip.tv/345.png" group-title="CanaisTop2",FOX PREMIUM 1 HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/345.ts
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="http://i.seuip.tv/344.png" group-title="CanaisTop2",FOX PREMIUM 1 FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/344.ts
+#EXTINF:-1 tvg-id="Foxpremium1" tvg-name="FOX PREMIUM 1 SD" tvg-logo="http://i.seuip.tv/345.png" group-title="CanaisTop2",FOX PREMIUM 1 SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4134.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://i.seuip.tv/347.png" group-title="CanaisTop2",FOX PREMIUM 2 HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/348.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://i.seuip.tv/347.png" group-title="CanaisTop2",FOX PREMIUM 2 FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/347.ts
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="http://i.seuip.tv/347.png" group-title="CanaisTop2",FOX PREMIUM 2 SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4131.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://i.seuip.tv/387.png" group-title="CanaisTop2",COMEDY CENTRAL HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/387.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://i.seuip.tv/389.png" group-title="CanaisTop2",COMEDY CENTRAL FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/6241.ts
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://i.seuip.tv/389.png" group-title="CanaisTop2",COMEDY CENTRAL SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/389.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://i.seuip.tv/353.png" group-title="CanaisTop2",FX HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/353.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://i.seuip.tv/352.png" group-title="CanaisTop2",FX FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/352.ts
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://i.seuip.tv/354.png" group-title="CanaisTop2",FX SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/354.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO EXTREME HD" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-xtreme-1509138785370.jpg" group-title="CanaisTop2",HBO EXTREME HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/329.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO EXTREME HD ALT" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-xtreme-1509138785370.jpg" group-title="CanaisTop2",HBO EXTREME HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5556.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO EXTREME FHD" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-xtreme-1509138785370.jpg" group-title="CanaisTop2",HBO EXTREME FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/328.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO EXTREME SD" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-xtreme-1509138785370.jpg" group-title="CanaisTop2",HBO EXTREME SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/331.ts
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO EXTREME ALT" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-xtreme-1509138785370.jpg" group-title="CanaisTop2",HBO EXTREME ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5557.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-pop-1509138784429.jpg" group-title="CanaisTop2",HBO POP HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/325.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD ALT" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-pop-1509138784429.jpg" group-title="CanaisTop2",HBO POP HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5558.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-pop-1509138784429.jpg" group-title="CanaisTop2",HBO POP FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/324.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-pop-1509138784429.jpg" group-title="CanaisTop2",HBO POP SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/327.ts
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD ALT" tvg-logo="https://www.claro.com.br/imagem/logo-hbo-pop-1509138784429.jpg" group-title="CanaisTop2",HBO POP SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5559.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://www.claro.com.br/imagem/logo-mundi-1509138784907.jpg" group-title="CanaisTop2",HBO MUNDI HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/321.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD ALT" tvg-logo="https://www.claro.com.br/imagem/logo-mundi-1509138784907.jpg" group-title="CanaisTop2",HBO MUNDI HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5560.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://www.claro.com.br/imagem/logo-mundi-1509138784907.jpg" group-title="CanaisTop2",HBO MUNDI FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7647.ts
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="https://www.claro.com.br/imagem/logo-mundi-1509138784907.jpg" group-title="CanaisTop2",HBO MUNDI SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/323.ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="MAX SD ALT" tvg-logo="http://i.seuip.tv/371.png" group-title="CanaisTop2",MAX SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5561.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://i.seuip.tv/368.png" group-title="CanaisTop2",SPACE HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/368.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://i.seuip.tv/368.png" group-title="CanaisTop2",SPACE FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/367.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="http://i.seuip.tv/369.png" group-title="CanaisTop2",SPACE SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/369.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="http://i.seuip.tv/376.png" group-title="CanaisTop2",PARAMOUNT HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/376.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD" tvg-logo="http://i.seuip.tv/375.png" group-title="CanaisTop2",PARAMOUNT FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/375.ts
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="http://i.seuip.tv/375.png" group-title="CanaisTop2",PARAMOUNT SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/377.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://i.seuip.tv/385.png" group-title="CanaisTop2",TBS HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/385.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="http://i.seuip.tv/384.png" group-title="CanaisTop2",TBS FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/384.ts
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="http://i.seuip.tv/386.png" group-title="CanaisTop2",TBS SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/386.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://i.seuip.tv/361.png" group-title="CanaisTop2",TNT HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/361.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD ALT" tvg-logo="http://i.seuip.tv/361.png" group-title="CanaisTop2",TNT HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57356.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://i.seuip.tv/360.png" group-title="CanaisTop2",TNT FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/360.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD ALT H265" tvg-logo="http://i.seuip.tv/361.png" group-title="CanaisTop2",TNT FHD ALT H265
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57360.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://i.seuip.tv/362.png" group-title="CanaisTop2",TNT SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/362.ts
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD ALT" tvg-logo="http://i.seuip.tv/361.png" group-title="CanaisTop2",TNT SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57358.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://i.seuip.tv/364.png" group-title="CanaisTop2",TNT SERIES HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/364.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD ALT" tvg-logo="http://i.seuip.tv/364.png" group-title="CanaisTop2",TNT SERIES HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57357.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="http://i.seuip.tv/364.png" group-title="CanaisTop2",TNT SERIES FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4132.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD ALT H265" tvg-logo="http://i.seuip.tv/364.png" group-title="CanaisTop2",TNT SERIES FHD ALT H265
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57361.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="http://i.seuip.tv/366.png" group-title="CanaisTop2",TNT SERIES SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/366.ts
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD ALT" tvg-logo="http://i.seuip.tv/364.png" group-title="CanaisTop2",TNT SERIES SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/57359.ts
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://i.seuip.tv/402.png" group-title="CanaisTop2",TCM SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/402.ts
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD ALT" tvg-logo="http://i.seuip.tv/402.png" group-title="CanaisTop2",TCM SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/8318.ts
+#EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA HD" tvg-logo="https://2.bp.blogspot.com/-3Z-AMQq8hMU/XDN_0dXXl9I/AAAAAAAABnI/POG1jDD83BcPmVn47JjsyDsDW39_bH9iwCLcBGAs/w680/TV%2BDI%25C3%2581RIO.jpg" group-title="CanaisTop2",TV DIARIO FORTALEZA HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/6239.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://i.seuip.tv/335.png" group-title="CanaisTop2",WARNER CHANNEL HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/335.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://i.seuip.tv/335.png" group-title="CanaisTop2",WARNER CHANNEL FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4133.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://i.seuip.tv/337.png" group-title="CanaisTop2",WARNER CHANNEL SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/337.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://i.seuip.tv/405.png" group-title="CanaisTop2",DISCOVERY HOME & HEALTH HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/405.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD ALT" tvg-logo="http://i.seuip.tv/405.png" group-title="CanaisTop2",DISCOVERY HOME & HEALTH HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4106.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://i.seuip.tv/404.png" group-title="CanaisTop2",DISCOVERY HOME & HEALTH FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/404.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://i.seuip.tv/408.png" group-title="CanaisTop2",DISCOVERY HOME & HEALTH SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/408.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD ALT" tvg-logo="http://i.seuip.tv/405.png" group-title="CanaisTop2",DISCOVERY HOME & HEALTH SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4107.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://i.seuip.tv/413.png" group-title="CanaisTop2",DISCOVERY TURBO HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/413.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD ALT" tvg-logo="http://i.seuip.tv/413.png" group-title="CanaisTop2",DISCOVERY TURBO HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4108.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://i.seuip.tv/411.png" group-title="CanaisTop2",DISCOVERY TURBO FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/411.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://i.seuip.tv/415.png" group-title="CanaisTop2",DISCOVERY TURBO SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/415.ts
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD ALT" tvg-logo="http://i.seuip.tv/413.png" group-title="CanaisTop2",DISCOVERY TURBO SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4109.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="http://i.seuip.tv/417.png" group-title="CanaisTop2",TLC HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/417.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD ALT" tvg-logo="http://i.seuip.tv/417.png" group-title="CanaisTop2",TLC HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4110.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="http://i.seuip.tv/416.png" group-title="CanaisTop2",TLC FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/416.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="http://i.seuip.tv/420.png" group-title="CanaisTop2",TLC SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/420.ts
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD ALT" tvg-logo="http://i.seuip.tv/417.png" group-title="CanaisTop2",TLC SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4111.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://i.seuip.tv/435.png" group-title="CanaisTop2",WOOHOO HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/435.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD ALT" tvg-logo="http://i.seuip.tv/435.png" group-title="CanaisTop2",WOOHOO HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4116.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="http://i.seuip.tv/435.png" group-title="CanaisTop2",WOOHOO FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7655.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="http://i.seuip.tv/436.png" group-title="CanaisTop2",WOOHOO SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/436.ts
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD ALT" tvg-logo="http://i.seuip.tv/435.png" group-title="CanaisTop2",WOOHOO SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4117.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://i.seuip.tv/438.png" group-title="CanaisTop2",LIFETIME HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/438.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD ALT" tvg-logo="http://i.seuip.tv/438.png" group-title="CanaisTop2",LIFETIME HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4118.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="http://i.seuip.tv/438.png" group-title="CanaisTop2",LIFETIME FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7646.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="http://i.seuip.tv/440.png" group-title="CanaisTop2",LIFETIME SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/440.ts
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD ALT" tvg-logo="http://i.seuip.tv/438.png" group-title="CanaisTop2",LIFETIME SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4119.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://i.seuip.tv/442.png" group-title="CanaisTop2",E! HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/442.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://i.seuip.tv/441.png" group-title="CanaisTop2",E! FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/441.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://i.seuip.tv/444.png" group-title="CanaisTop2",E! SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/444.ts
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD ALT" tvg-logo="http://i.seuip.tv/442.png" group-title="CanaisTop2",E! SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4121.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://i.seuip.tv/446.png" group-title="CanaisTop2",FOOD NETWORK HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/446.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD ALT" tvg-logo="http://i.seuip.tv/446.png" group-title="CanaisTop2",FOOD NETWORK HD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4122.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="http://i.seuip.tv/445.png" group-title="CanaisTop2",FOOD NETWORK FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/445.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://i.seuip.tv/447.png" group-title="CanaisTop2",FOOD NETWORK SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/447.ts
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD ALT" tvg-logo="http://i.seuip.tv/446.png" group-title="CanaisTop2",FOOD NETWORK SD ALT
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4123.ts
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAYTV SD" tvg-logo="http://i.seuip.tv/448.png" group-title="CanaisTop2",PLAYTV SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/448.ts
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV HD" tvg-logo="http://i.seuip.tv/451.png" group-title="CanaisTop2",TRUTV HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4103.ts
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV FHD" tvg-logo="http://i.seuip.tv/451.png" group-title="CanaisTop2",TRUTV FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7652.ts
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV SD" tvg-logo="http://i.seuip.tv/451.png" group-title="CanaisTop2",TRUTV SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/451.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://i.seuip.tv/454.png" group-title="CanaisTop2",MULTISHOW HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/454.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="http://i.seuip.tv/453.png" group-title="CanaisTop2",MULTISHOW FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/453.ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://i.seuip.tv/457.png" group-title="CanaisTop2",MULTISHOW SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/457.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="http://i.seuip.tv/459.png" group-title="CanaisTop2",BIS HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/459.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="http://i.seuip.tv/458.png" group-title="CanaisTop2",BIS FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/458.ts
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="http://i.seuip.tv/460.png" group-title="CanaisTop2",BIS SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/460.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://i.seuip.tv/461.png" group-title="CanaisTop2",MTV FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/461.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://i.seuip.tv/462.png" group-title="CanaisTop2",MTV HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/462.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD" tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/601.png" group-title="CanaisTop2",MTV LIVE HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4135.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE FHD" tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/601.png" group-title="CanaisTop2",MTV LIVE FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7648.ts
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE SD" tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/601.png" group-title="CanaisTop2",MTV LIVE SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4136.ts
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="http://i.seuip.tv/464.png" group-title="CanaisTop2",MTV SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/464.ts
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="http://i.seuip.tv/465.png" group-title="CanaisTop2",VH1 HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/465.ts
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD" tvg-logo="http://i.seuip.tv/465.png" group-title="CanaisTop2",VH1 FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7654.ts
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 SD" tvg-logo="http://i.seuip.tv/3663.png" group-title="CanaisTop2",VH1 SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/3663.ts
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGAHITS SD" tvg-logo="http://i.seuip.tv/467.png" group-title="CanaisTop2",VH1 MEGAHITS SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/467.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://i.seuip.tv/475.png" group-title="CanaisTop2",ANIMAL PLANET HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/475.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://i.seuip.tv/474.png" group-title="CanaisTop2",ANIMAL PLANET FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/474.ts
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://i.seuip.tv/477.png" group-title="CanaisTop2",ANIMAL PLANET SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/477.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="http://i.seuip.tv/480.png" group-title="CanaisTop2",ID - INVESTIGACAO DISCOVERY HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/480.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD" tvg-logo="http://i.seuip.tv/479.png" group-title="CanaisTop2",ID - INVESTIGACAO DISCOVERY FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/479.ts
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY SD" tvg-logo="http://i.seuip.tv/481.png" group-title="CanaisTop2",ID - INVESTIGACAO DISCOVERY SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/481.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://i.seuip.tv/484.png" group-title="CanaisTop2",DISCOVERY CHANNEL HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/484.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://i.seuip.tv/482.png" group-title="CanaisTop2",DISCOVERY CHANNEL FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/482.ts
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://i.seuip.tv/486.png" group-title="CanaisTop2",DISCOVERY CHANNEL SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/486.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://i.seuip.tv/489.png" group-title="CanaisTop2",DISCOVERY THEATER HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/489.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="http://i.seuip.tv/489.png" group-title="CanaisTop2",DISCOVERY THEATER FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/5463.ts
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="http://i.seuip.tv/491.png" group-title="CanaisTop2",DISCOVERY THEATER SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/491.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://i.seuip.tv/494.png" group-title="CanaisTop2",DISCOVERY WORLD HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/494.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://i.seuip.tv/493.png" group-title="CanaisTop2",DISCOVERY WORLD FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/493.ts
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="http://i.seuip.tv/496.png" group-title="CanaisTop2",DISCOVERY WORLD SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/496.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="http://i.seuip.tv/498.png" group-title="CanaisTop2",HGTV HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/498.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD" tvg-logo="http://i.seuip.tv/497.png" group-title="CanaisTop2",HGTV FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/497.ts
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD" tvg-logo="http://i.seuip.tv/500.png" group-title="CanaisTop2",HGTV SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/500.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://i.seuip.tv/503.png" group-title="CanaisTop2",DISCOVERY SCIENCE HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/503.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://i.seuip.tv/503.png" group-title="CanaisTop2",DISCOVERY SCIENCE FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4317.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://i.seuip.tv/504.png" group-title="CanaisTop2",DISCOVERY SCIENCE SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/504.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="http://i.seuip.tv/506.png" group-title="CanaisTop2",NAT GEO WILD HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/506.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHD" tvg-logo="http://i.seuip.tv/505.png" group-title="CanaisTop2",NAT GEO WILD FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/505.ts
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="http://i.seuip.tv/507.png" group-title="CanaisTop2",NAT GEO WILD SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/507.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://i.seuip.tv/509.png" group-title="CanaisTop2",NATIONAL GEOGRAPHIC HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/509.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://i.seuip.tv/508.png" group-title="CanaisTop2",NATIONAL GEOGRAPHIC FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/508.ts
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://i.seuip.tv/512.png" group-title="CanaisTop2",NATIONAL GEOGRAPHIC SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/512.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="http://i.seuip.tv/515.png" group-title="CanaisTop2",HISTORY HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/515.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD" tvg-logo="http://i.seuip.tv/514.png" group-title="CanaisTop2",HISTORY FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/514.ts
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="http://i.seuip.tv/517.png" group-title="CanaisTop2",HISTORY SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/517.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="http://i.seuip.tv/519.png" group-title="CanaisTop2",H2 HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/519.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD" tvg-logo="http://i.seuip.tv/518.png" group-title="CanaisTop2",H2 FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/518.ts
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="http://i.seuip.tv/521.png" group-title="CanaisTop2",H2 SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/521.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://i.seuip.tv/538.png" group-title="CanaisTop2",GLOOB HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/538.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://i.seuip.tv/537.png" group-title="CanaisTop2",GLOOB FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/537.ts
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="http://i.seuip.tv/540.png" group-title="CanaisTop2",GLOOB SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/540.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/1/18/TV_Globinho_2014_logo.png/revision/latest?cb=20150725184425" group-title="CanaisTop2",GLOOBINHO HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4536.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/1/18/TV_Globinho_2014_logo.png/revision/latest?cb=20150725184425" group-title="CanaisTop2",GLOOBINHO FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4535.ts
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/1/18/TV_Globinho_2014_logo.png/revision/latest?cb=20150725184425" group-title="CanaisTop2",GLOOBINHO SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4537.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="http://i.seuip.tv/544.png" group-title="CanaisTop2",NAT GEO KIDS HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/544.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="http://i.seuip.tv/543.png" group-title="CanaisTop2",NAT GEO KIDS FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/543.ts
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="http://i.seuip.tv/545.png" group-title="CanaisTop2",NAT GEO KIDS SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/545.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://i.seuip.tv/553.png" group-title="CanaisTop2",DISCOVERY KIDS HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/553.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://i.seuip.tv/552.png" group-title="CanaisTop2",DISCOVERY KIDS FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/552.ts
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://i.seuip.tv/555.png" group-title="CanaisTop2",DISCOVERY KIDS SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/555.ts
+EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS HD" tvg-logo="http://3.bp.blogspot.com/-QHGyYMEDwFg/W51vrnqBd5I/AAAAAAAAh1Q/oVqYeA44Z7MY24Ezu3olqOGD6pvpRSEtwCLcBGAs/s1600/playkids.jpg" group-title="CanaisTop2",PLAYKIDS HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4253.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS FHD" tvg-logo="http://3.bp.blogspot.com/-QHGyYMEDwFg/W51vrnqBd5I/AAAAAAAAh1Q/oVqYeA44Z7MY24Ezu3olqOGD6pvpRSEtwCLcBGAs/s1600/playkids.jpg" group-title="CanaisTop2",PLAYKIDS FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7662.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS SD" tvg-logo="http://3.bp.blogspot.com/-QHGyYMEDwFg/W51vrnqBd5I/AAAAAAAAh1Q/oVqYeA44Z7MY24Ezu3olqOGD6pvpRSEtwCLcBGAs/s1600/playkids.jpg" group-title="CanaisTop2",PLAYKIDS SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/4254.ts
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="http://i.seuip.tv/546.png" group-title="CanaisTop2",BABY TV SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/546.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="http://i.seuip.tv/548.png" group-title="CanaisTop2",TV RA TIM BUM HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/548.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="http://i.seuip.tv/548.png" group-title="CanaisTop2",TV RA TIM BUM FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/7653.ts
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="http://i.seuip.tv/549.png" group-title="CanaisTop2",TV RA TIM BUM SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/549.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://i.seuip.tv/558.png" group-title="CanaisTop2",BOOMERANG HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/558.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="http://i.seuip.tv/557.png" group-title="CanaisTop2",BOOMERANG FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/557.ts
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://i.seuip.tv/561.png" group-title="CanaisTop2",BOOMERANG SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/561.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://i.seuip.tv/564.png" group-title="CanaisTop2",CARTOON NETWORK HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/564.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://i.seuip.tv/562.png" group-title="CanaisTop2",CARTOON NETWORK FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/562.ts
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://i.seuip.tv/567.png" group-title="CanaisTop2",CARTOON NETWORK SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/567.ts
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://i.seuip.tv/570.png" group-title="CanaisTop2",TOONCAST HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/570.ts
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="http://i.seuip.tv/569.png" group-title="CanaisTop2",TOONCAST SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/569.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://i.seuip.tv/572.png" group-title="CanaisTop2",NICK JR HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/572.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="http://i.seuip.tv/571.png" group-title="CanaisTop2",NICK JR FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/571.ts
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="http://i.seuip.tv/574.png" group-title="CanaisTop2",NICK JR SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/574.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="http://i.seuip.tv/576.png" group-title="CanaisTop2",NICK HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/576.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD" tvg-logo="http://i.seuip.tv/575.png" group-title="CanaisTop2",NICK FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/575.ts
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD" tvg-logo="http://i.seuip.tv/577.png" group-title="CanaisTop2",NICK SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/577.ts
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="http://i.seuip.tv/550.png" group-title="CanaisTop2",ZOOMOO HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/550.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://i.seuip.tv/579.png" group-title="CanaisTop2",DISNEY CHANNEL HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/579.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://i.seuip.tv/578.png" group-title="CanaisTop2",DISNEY CHANNEL FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/578.ts
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://i.seuip.tv/581.png" group-title="CanaisTop2",DISNEY CHANNEL SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/581.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://i.seuip.tv/584.png" group-title="CanaisTop2",DISNEY JUNIOR HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/584.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="http://i.seuip.tv/583.png" group-title="CanaisTop2",DISNEY JUNIOR FHD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/583.ts
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="http://i.seuip.tv/586.png" group-title="CanaisTop2",DISNEY JUNIOR SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/586.ts
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="http://i.seuip.tv/587.png" group-title="CanaisTop2",DISNEY XD HD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/587.ts
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="http://i.seuip.tv/588.png" group-title="CanaisTop2",DISNEY XD SD
+http://tv1.cs10.tv:80/live/leopoldo/leopoldo/588.ts
